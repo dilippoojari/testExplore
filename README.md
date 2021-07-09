@@ -1,4 +1,4 @@
 # testExplore
 Just for Test
-## make me bold
+## Git and Markdown
 * Markdown Tags
